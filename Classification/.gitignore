@@ -7,3 +7,4 @@ autodiff/__pycache__/*
 .vscode
 .vscode/
 .vscode/*
+/data
