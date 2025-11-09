@@ -1,0 +1,10 @@
+__pycache__
+__pycache__/
+__pycache__/*
+autodiff/__pycache__
+autodiff/__pycache__/
+autodiff/__pycache__/*
+.vscode
+.vscode/
+.vscode/*
+/data
